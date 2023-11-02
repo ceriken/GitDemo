@@ -11,6 +11,10 @@ namespace UdemyTestProject
         public void Test1()
         {
             Assert.Pass();
+            Assert.Fail();
+            Assert.AreSame();
+            //git Testing 1
+
         }
     }
 }
